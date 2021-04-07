@@ -1,0 +1,3 @@
+function functionname(id) {
+	//functionen// 
+}
